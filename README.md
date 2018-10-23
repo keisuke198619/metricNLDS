@@ -15,3 +15,7 @@ arXiv preprint: <https://arxiv.org/abs/1710.04340>
 * `demo_metric_PF`
 	- A simple demonstration script of our metric. 
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
