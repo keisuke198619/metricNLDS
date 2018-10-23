@@ -10,5 +10,5 @@ arXiv preprint: <https://arxiv.org/abs/1710.04340>
 * `metric_PF`
 	- Core implementation of our metric.
 * `demo_metric_PF`
-	- A simple demonstration script of our metric 
+	- A simple demonstration script of our metric. 
 
