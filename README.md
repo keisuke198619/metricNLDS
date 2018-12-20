@@ -1,7 +1,7 @@
 # Metric on nonlinear dynamical systems with Perron-Frobenius operators
 This is a demo implementation of the following paper.
 
-Isao Ishikawa, Keisuke Fujii, Masahiro Ikeda, Yuka Hashimoto, and Yoshinobu Kawahara, "Metric on nonlinear dynamical systems with Perron-Frobenius operators," in *Advances in Neural Information Processing Systems (Proc. of NIPS)*, vol. 31, 2018 (to appear).
+Isao Ishikawa, Keisuke Fujii, Masahiro Ikeda, Yuka Hashimoto,and Yoshinobu Kawahara, "Metric on nonlinear dynamical systems with Perron-Frobenius operators," in *Advances in Neural Information Processing Systems (Proc. of NeurIPS'18)*, vol. 31, pp.2858-2868, 2018.
 
 
 
