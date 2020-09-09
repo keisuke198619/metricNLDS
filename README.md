@@ -14,7 +14,8 @@ arXiv preprint: <https://arxiv.org/abs/1805.12324>
 	- Core implementation of our metric.
 * `demo_metric_PF`
 	- A simple demonstration script of our metric. 
-	- including Koopman kernel of principal angle <https://link.springer.com/chapter/10.1007/978-3-319-71273-4_11>
+	- including Koopman kernel of principal angle
+	  <https://link.springer.com/chapter/10.1007/978-3-319-71273-4_11>
 
 
 ## License
